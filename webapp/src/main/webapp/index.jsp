@@ -1,9 +1,9 @@
 <div class="form-container">
 <form name="registerForm">
     <label for="firstName">First Name *</label>
-    <input type="text" id="firstName" name="firstName" placeholder="John" required/>
+    <input type="text" id="firstName" name="firstName" placeholder="enter your first name" required/>
     <label for="lastName">Last Name *</label>
-    <input type="text" id="lastName" placeholder="Doe" required/>
+    <input type="text" id="lastName" placeholder="enter you last name" required/>
 </form>
 </div>
 <div class="form-container">
